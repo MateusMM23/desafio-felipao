@@ -1,0 +1,5 @@
+let nome = "Joker"
+let idade = 18
+let tipo = "mago"
+
+if(tipo ))

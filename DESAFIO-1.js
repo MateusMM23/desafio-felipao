@@ -21,11 +21,3 @@ if(xp < 1000){
 }
 
 console.log(" O herói de nome " + nome + " está no nível " + nivel)
-
-//for(let i = 0; i <= 0; i++){
-//console.log(moreira)
-//}if(moreira < 9){
-   // console.log("pausa")
-//}else if(moreira > 9){
-    //console.log("mete marcha")
-//}
